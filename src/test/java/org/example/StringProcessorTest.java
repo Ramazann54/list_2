@@ -92,5 +92,5 @@ public class StringProcessorTest {
         assertEquals(temp.toString(), "1");
     }
 
-  
+
 }
